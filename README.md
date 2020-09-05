@@ -1,5 +1,5 @@
 # Graffix
-These are my Graphics and design projects
+These are some of my Graphics and Design projects
 
 <<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>
 You can clone and use the files in here for free
